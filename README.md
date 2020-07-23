@@ -1,6 +1,7 @@
 # Matheus Barbosa
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Barbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souza-matheus/)](https://www.linkedin.com/in/souza-matheus/)
+[![Gmail Badge](https://img.shields.io/badge/-matheusbrbs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusbrbs@gmail.com)](mailto:matheusbrbs@gmail.com)
 
 <!--
 **theus-brz/theus-brz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
