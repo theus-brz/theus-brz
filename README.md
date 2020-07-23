@@ -1,4 +1,6 @@
-### Hi there 👋
+# Matheus Barbosa
+
+[Linkedin Badge](https://www.linkedin.com/in/souza-matheus/) 
 
 <!--
 **theus-brz/theus-brz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
