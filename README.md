@@ -6,16 +6,22 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusbrbs@gmail.com)](mailto:matheusbrbs@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/theusbrz)](https://t.me/theusbrz)
 
+Hello there!
+- My name is Matheus Barbosa, 23
+- I'm full stack developer
+- IT Analyst at **Zup It Innovation**
+- My main tech is React.js
+
 ---
 <details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
+  <summary> <b> Wanna know more? </b> <i>(Click to expand)</i> </summary>
   <br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=theus-brz&show_icons=true&count_private=true&theme=react" />
   </a>
   
-## Algumas Tecnologias
+## Some Techs
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
