@@ -10,7 +10,7 @@ Hello there!
 - My name is Matheus Barbosa, 23
 - I'm full stack developer
 - IT Analyst at **Zup It Innovation**
-- My main tech is React.js
+- My mains techs are React.js and Angular
 
 ---
 <details>
