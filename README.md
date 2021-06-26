@@ -7,7 +7,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/theusbrz)](https://t.me/theusbrz)
 
 Hello there!
-- My name is Matheus Barbosa, 23
+- My name is Matheus Barbosa, 24
 - I'm full stack developer
 - IT Analyst at **Zup It Innovation**
 - My mains techs are React.js and Angular
