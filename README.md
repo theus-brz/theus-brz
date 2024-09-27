@@ -2,6 +2,5 @@
 
 Hello there!
 - My name is Matheus Barbosa
-- I'm full stack developer
-- IT Analyst at **Zup It Innovation**
-- My mains techs are React.js and Angular
+- I'm full stack JavaScript developer
+- My mains techs are ReactJS, React Native, NodeJS and Angular
